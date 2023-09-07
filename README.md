@@ -15,10 +15,20 @@ Higher-quality code means lower costs. How? Better code improves readability and
 
 ***Everyone can write better code by:***
 
-Using names thoughtfully.
+~~Using names thoughtfully.~~
 1. Using names thoughtfully
 2. Using necessary comments
 3. Building small functions with severely limited functionalities
+
+- The second article from InformIT suggests:
+### Article Link: https://www.informit.com/articles/article.aspx?p=2223710
+
+**Diomidis Spinellis** Wrote a book called ***Code Quality: The Open Source Perspective***
+
+1. Maintain consistency throughout the code
+2. Effectively use DSA (Data Structures and Algorithms) to avoid repetition
+3. Do not overdesign
+
 
 
 
