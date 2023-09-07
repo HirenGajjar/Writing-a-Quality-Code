@@ -1,2 +1,7 @@
 # Writing-a-Quality-Code
-Following repo is a research on the internet regarding writing a higher quality with best industry standards.
+The following repo is a result of research on the internet regarding writing of higher quality with the best industry standards.
+
+Hiren Gajjar
+Repo Link https://github.com/HirenGajjar/Writing-a-Quality-Code
+***
+
