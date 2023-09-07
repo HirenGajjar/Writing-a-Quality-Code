@@ -65,3 +65,10 @@ Here's how?
 - Naming conventions, comments, and precise functions
 - Be consistent, avoid repetition, and be specific when building features
 - Code should be written in a way that helps others understand it; documentation and following higher standards can help in open-source contributions
+
+#### > [!Evaluating Work]
+> As part of my research, I believe that the above-mentioned articles have been well-structured and summarized.
+***3 on the scale out of 4.***
+
+
+
