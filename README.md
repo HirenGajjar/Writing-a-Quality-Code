@@ -30,7 +30,7 @@ Higher-quality code means lower costs. How? Better code improves readability and
 3. Do not overdesign
 
 - The third article from MetaBox suggests:
-###Article Link: https://metabox.io/php-technique-write-clean-readable-code/
+### Article Link: https://metabox.io/php-technique-write-clean-readable-code/
 
 ***Why coders should focus on clean code, especially in PHP, for certain reasons:***
 
@@ -48,4 +48,14 @@ However, an updated version like 5.4 allows for short tags:
 ```PHP
 <?= 'Hello World'; ?>
 ```
+
+- Last but not least, an article from Soulimaneyh on Medium suggests:
+### Article Link: https://medium.com/@soulaimaneyh/php-clean-code-tricks-everyone-should-know-afd406bd00bc#:~:text=Consistency%20is%20key%20when%20it,lengths%2C%20and%20other%20formatting%20conventions
+
+***PHP, as a language, offers many features and tools to write effectively.***
+Here's how?
+
+1. Follow standards like PSR-1 and PSR-2 for indications, line length, and formation
+2. Use default functions provided by PHP, such as array_filter(), array_insert(), etc
+3. Utilize open-source libraries like CORS, Tinker, and Entrust
 
