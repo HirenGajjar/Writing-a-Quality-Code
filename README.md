@@ -59,3 +59,9 @@ Here's how?
 2. Use default functions provided by PHP, such as array_filter(), array_insert(), etc
 3. Utilize open-source libraries like CORS, Tinker, and Entrust
 
+---
+
+# Summary
+- Naming conventions, comments, and precise functions
+- Be consistent, avoid repetition, and be specific when building features
+- Code should be written in a way that helps others understand it; documentation and following higher standards can help in open-source contributions
