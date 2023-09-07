@@ -29,6 +29,23 @@ Higher-quality code means lower costs. How? Better code improves readability and
 2. Effectively use DSA (Data Structures and Algorithms) to avoid repetition
 3. Do not overdesign
 
+- The third article from MetaBox suggests:
+###Article Link: https://metabox.io/php-technique-write-clean-readable-code/
 
+***Why coders should focus on clean code, especially in PHP, for certain reasons:***
 
+1. Clean code takes less time to read and write; therefore, not only coders but others can read it and have a basic understanding of it
+2. Use documentation while coding so that organizations or others can use it
+3. While working on WordPress or other open-source projects that may have strict coding rules, having good practice in producing quality code can definitely help.
+
+For example, WordPress asks to write the full PHP tag as follows:
+
+```PHP
+<?php echo 'Hello World'; ?>
+```
+However, an updated version like 5.4 allows for short tags:
+
+```PHP
+<?= 'Hello World'; ?>
+```
 
